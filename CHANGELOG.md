@@ -173,7 +173,7 @@ NOTE: any JDK installed in this way is considered to be unmanaged, i.e. not avai
 ### Added
 * Zulu OpenJDK support (e.g. `jabba install zulu@<version>`).
 * Ability to install JDK from `zip` archives (in addition to already implemented `dmg`/`tar.gz`/`bin`).
-* Support for custom registries (e.g. `JABBA_INDEX=https://github.com/shyiko/jabba/raw/master/index.json jabba install ...`). 
+* Support for custom registries (e.g. `JABBA_INDEX=https://github.com/developermibuz/jabba/raw/master/index.json jabba install ...`). 
 
 ### Fixed
 * `which <alias>`.
